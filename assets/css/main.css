@@ -2933,7 +2933,8 @@ input, select, textarea {
 				border-radius: 0;
 				display: block;
 				position: relative;
-				width: 30%;
+				width: 100%;
+				height: 50%;
 			}
 
 				.spotlights > section > .image img {
@@ -2946,7 +2947,7 @@ input, select, textarea {
 					background: rgba(36, 41, 67, 0.9);
 					content: '';
 					display: block;
-					height: 100%;
+					height: 50%;
 					left: 0;
 					opacity: 0;
 					position: absolute;
@@ -2972,7 +2973,7 @@ input, select, textarea {
 				-ms-align-items: center;
 				align-items: center;
 				padding: 2em 3em 0.1em 3em ;
-				width: 70%;
+				width: 30%;
 			}
 
 				.spotlights > section > .content > .inner {
